@@ -8,9 +8,8 @@ def modify_string(txt):
                 result.append(txt[i+1])
             result.append('_')
     return  ''.join(result)
-def test3():
+
+if __name__ == '__main__':
     print(f"Input 1: hello\nOutput 1: {modify_string("hello")}"
           f"\nInput 2: assalom\nOutput 2: {modify_string("assalom")}"
           f"\nInput 3: abcabcdabcdeabcdefabcdefg\nOutput 3: {modify_string("abcabcdabcdeabcdefabcdefg")}")
-if __name__ == '__main__':
-    test3()

@@ -13,10 +13,7 @@ def uncommon_elements(list1, list2):
 
     return uncommon
 
-def test1():
+if __name__ == '__main__':
     list1 = [1, 1, 1, 2, 3, 4]
     list2 = [1, 1, 2, 2, 3, 3, 5, 4]
     print(uncommon_elements(list1, list2))
-
-if __name__ == '__main__':
-    test1()
