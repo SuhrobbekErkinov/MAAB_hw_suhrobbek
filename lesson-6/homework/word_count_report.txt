@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 5
+Top Words:
+this - 1
+is - 1
+a - 1
+simple - 1
+file - 1
