@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Sony vaio i5",
+        "price": "$790",
+        "description": "Some description here..."
+    },
+    {
+        "name": "MacBook air",
+        "price": "$700",
+        "description": "Another description..."
+    }
+]
+
